@@ -54,7 +54,7 @@ function App() {
         <div className="container my-3">
           {/* <Routes> */}
             {/* Use the `element` prop instead of wrapping components inside `Route` */}
-            {/* <Route exact path="/about" element={<About />} /> */}
+            {/* <Route exact path="/about" element={<About mode={mode}/>} /> */}
 
             {/* <Route
               exact path="/"
